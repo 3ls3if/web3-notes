@@ -44,7 +44,14 @@ https://dfinity.org/pdf-viewer/pdfs/viewer?file=../library/dfinity-consensus.pdf
 
 ## Installation Guide
 
+### Mac/Linux
 https://docs.google.com/document/d/e/2PACX-1vTSgoWcVvuMW4Aa78MyqeK0_ZRl_MaV7rS-tdhya3jlPbSSbxczQFCohrGf87T4F7tJKXwTjT2z_QSq/pub
+
+
+### Windows
+
+https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub
+
 
 
 
